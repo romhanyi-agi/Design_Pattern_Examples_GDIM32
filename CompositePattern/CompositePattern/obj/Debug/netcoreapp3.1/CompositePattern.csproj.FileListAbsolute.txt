@@ -1,0 +1,13 @@
+/Users/agnes/Projects/CompositePattern/CompositePattern/bin/Debug/netcoreapp3.1/CompositePattern.deps.json
+/Users/agnes/Projects/CompositePattern/CompositePattern/bin/Debug/netcoreapp3.1/CompositePattern.runtimeconfig.json
+/Users/agnes/Projects/CompositePattern/CompositePattern/bin/Debug/netcoreapp3.1/CompositePattern.runtimeconfig.dev.json
+/Users/agnes/Projects/CompositePattern/CompositePattern/bin/Debug/netcoreapp3.1/CompositePattern.dll
+/Users/agnes/Projects/CompositePattern/CompositePattern/bin/Debug/netcoreapp3.1/CompositePattern.pdb
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.AssemblyInfoInputs.cache
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.AssemblyInfo.cs
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.csproj.CoreCompileInputs.cache
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.dll
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.pdb
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.genruntimeconfig.cache
+/Users/agnes/Projects/CompositePattern/CompositePattern/obj/Debug/netcoreapp3.1/CompositePattern.csproj.AssemblyReference.cache

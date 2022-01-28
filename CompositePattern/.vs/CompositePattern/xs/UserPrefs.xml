@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E196294E-D949-44F8-BC86-223B39763DED}|Default">
+  <MonoDevelop.Ide.ItemProperties.CompositePattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/FollowingCode/PickUp.cs">
+    <Files>
+      <File FileName="../../Downloads/FollowingCode/PickUp.cs" Line="22" Column="6" />
+      <File FileName="../../Downloads/FollowingCode/PlayerMovement.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompositePattern" expanded="True">
+            <Node name="CompositePattern" expanded="True">
+              <Node name="Client.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
