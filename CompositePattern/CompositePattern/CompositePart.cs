@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace CompositePattern
 {
+    // Composite class
     public class CompositePart : IComponent
     {
         private List<IComponent> componentList = new List<IComponent>();
